@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+	<vertices>
+		<vertex id="0" name="Zero" surname="Zero" immunity="40.0"/>
+		<vertex id="1" name="Jeden" surname="Jeden" immunity="100.0"/>
+		<vertex id="2" name="Dwa" surname="Dwa" immunity="15.0"/>
+		<vertex id="3" name="Trzy" surname="Trzy" immunity="15.0"/>
+		<vertex id="4" name="Cztery" surname="Cztery" immunity="100.0"/>
+		<vertex id="5" name="Piec" surname="Piec" immunity="100.0"/>
+		<vertex id="6" name="Szesc" surname="Szesc" immunity="15.0"/>
+		<vertex id="7" name="Siedem" surname="Siedem" immunity="15.0"/>
+		<vertex id="8" name="Osiem" surname="Osiem" immunity="15.0"/>
+		<vertex id="9" name="Dziewiec" surname="Dziewiec" immunity="15.0"/>
+	</vertices>
+	<edges>
+		<edge from="0" to="1"/>
+		<edge from="0" to="2"/>
+		<edge from="0" to="5"/>
+		<edge from="1" to="9"/>
+		<edge from="2" to="3"/>
+		<edge from="3" to="4"/>
+		<edge from="3" to="7"/>
+		<edge from="4" to="9"/>
+		<edge from="5" to="6"/>
+		<edge from="6" to="7"/>
+		<edge from="7" to="8"/>
+		<edge from="8" to="9"/>
+	</edges>
+</graph>

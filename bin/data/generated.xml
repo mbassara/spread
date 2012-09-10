@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph>
+	<vertices>
+		<vertex id="0" name="0" surname="0" immunity="87.00"/>
+		<vertex id="1" name="1" surname="1" immunity="53.00"/>
+		<vertex id="2" name="2" surname="2" immunity="75.00"/>
+		<vertex id="3" name="3" surname="3" immunity="99.00"/>
+		<vertex id="4" name="4" surname="4" immunity="23.00"/>
+		<vertex id="5" name="5" surname="5" immunity="67.00"/>
+		<vertex id="6" name="6" surname="6" immunity="83.00"/>
+		<vertex id="7" name="7" surname="7" immunity="83.00"/>
+		<vertex id="8" name="8" surname="8" immunity="79.00"/>
+		<vertex id="9" name="9" surname="9" immunity="53.00"/>
+		<vertex id="10" name="10" surname="10" immunity="11.00"/>
+		<vertex id="11" name="11" surname="11" immunity="24.00"/>
+		<vertex id="12" name="12" surname="12" immunity="78.00"/>
+		<vertex id="13" name="13" surname="13" immunity="13.00"/>
+		<vertex id="14" name="14" surname="14" immunity="3.00"/>
+		<vertex id="15" name="15" surname="15" immunity="2.00"/>
+		<vertex id="16" name="16" surname="16" immunity="28.00"/>
+		<vertex id="17" name="17" surname="17" immunity="92.00"/>
+		<vertex id="18" name="18" surname="18" immunity="16.00"/>
+		<vertex id="19" name="19" surname="19" immunity="42.00"/>
+		<vertex id="20" name="20" surname="20" immunity="37.00"/>
+		<vertex id="21" name="21" surname="21" immunity="94.00"/>
+		<vertex id="22" name="22" surname="22" immunity="6.00"/>
+		<vertex id="23" name="23" surname="23" immunity="98.00"/>
+		<vertex id="24" name="24" surname="24" immunity="7.00"/>
+		<vertex id="25" name="25" surname="25" immunity="4.00"/>
+		<vertex id="26" name="26" surname="26" immunity="89.00"/>
+		<vertex id="27" name="27" surname="27" immunity="100.00"/>
+		<vertex id="28" name="28" surname="28" immunity="7.00"/>
+		<vertex id="29" name="29" surname="29" immunity="78.00"/>
+		<vertex id="30" name="30" surname="30" immunity="40.00"/>
+		<vertex id="31" name="31" surname="31" immunity="67.00"/>
+		<vertex id="32" name="32" surname="32" immunity="100.00"/>
+		<vertex id="33" name="33" surname="33" immunity="67.00"/>
+		<vertex id="34" name="34" surname="34" immunity="11.00"/>
+		<vertex id="35" name="35" surname="35" immunity="87.00"/>
+		<vertex id="36" name="36" surname="36" immunity="13.00"/>
+		<vertex id="37" name="37" surname="37" immunity="14.00"/>
+		<vertex id="38" name="38" surname="38" immunity="13.00"/>
+		<vertex id="39" name="39" surname="39" immunity="49.00"/>
+		<vertex id="40" name="40" surname="40" immunity="76.00"/>
+		<vertex id="41" name="41" surname="41" immunity="23.00"/>
+		<vertex id="42" name="42" surname="42" immunity="4.00"/>
+		<vertex id="43" name="43" surname="43" immunity="24.00"/>
+		<vertex id="44" name="44" surname="44" immunity="36.00"/>
+		<vertex id="45" name="45" surname="45" immunity="11.00"/>
+		<vertex id="46" name="46" surname="46" immunity="41.00"/>
+		<vertex id="47" name="47" surname="47" immunity="94.00"/>
+		<vertex id="48" name="48" surname="48" immunity="69.00"/>
+		<vertex id="49" name="49" surname="49" immunity="65.00"/>
+		<vertex id="50" name="50" surname="50" immunity="73.00"/>
+		<vertex id="51" name="51" surname="51" immunity="23.00"/>
+		<vertex id="52" name="52" surname="52" immunity="33.00"/>
+		<vertex id="53" name="53" surname="53" immunity="1.00"/>
+		<vertex id="54" name="54" surname="54" immunity="39.00"/>
+		<vertex id="55" name="55" surname="55" immunity="83.00"/>
+		<vertex id="56" name="56" surname="56" immunity="99.00"/>
+		<vertex id="57" name="57" surname="57" immunity="43.00"/>
+		<vertex id="58" name="58" surname="58" immunity="29.00"/>
+		<vertex id="59" name="59" surname="59" immunity="63.00"/>
+		<vertex id="60" name="60" surname="60" immunity="67.00"/>
+		<vertex id="61" name="61" surname="61" immunity="50.00"/>
+		<vertex id="62" name="62" surname="62" immunity="13.00"/>
+		<vertex id="63" name="63" surname="63" immunity="18.00"/>
+		<vertex id="64" name="64" surname="64" immunity="96.00"/>
+		<vertex id="65" name="65" surname="65" immunity="95.00"/>
+		<vertex id="66" name="66" surname="66" immunity="51.00"/>
+		<vertex id="67" name="67" surname="67" immunity="90.00"/>
+		<vertex id="68" name="68" surname="68" immunity="90.00"/>
+		<vertex id="69" name="69" surname="69" immunity="42.00"/>
+		<vertex id="70" name="70" surname="70" immunity="96.00"/>
+		<vertex id="71" name="71" surname="71" immunity="27.00"/>
+		<vertex id="72" name="72" surname="72" immunity="37.00"/>
+		<vertex id="73" name="73" surname="73" immunity="75.00"/>
+		<vertex id="74" name="74" surname="74" immunity="99.00"/>
+		<vertex id="75" name="75" surname="75" immunity="27.00"/>
+		<vertex id="76" name="76" surname="76" immunity="39.00"/>
+		<vertex id="77" name="77" surname="77" immunity="54.00"/>
+		<vertex id="78" name="78" surname="78" immunity="98.00"/>
+		<vertex id="79" name="79" surname="79" immunity="37.00"/>
+		<vertex id="80" name="80" surname="80" immunity="18.00"/>
+		<vertex id="81" name="81" surname="81" immunity="33.00"/>
+		<vertex id="82" name="82" surname="82" immunity="85.00"/>
+		<vertex id="83" name="83" surname="83" immunity="19.00"/>
+		<vertex id="84" name="84" surname="84" immunity="42.00"/>
+		<vertex id="85" name="85" surname="85" immunity="7.00"/>
+		<vertex id="86" name="86" surname="86" immunity="22.00"/>
+		<vertex id="87" name="87" surname="87" immunity="90.00"/>
+		<vertex id="88" name="88" surname="88" immunity="65.00"/>
+		<vertex id="89" name="89" surname="89" immunity="42.00"/>
+		<vertex id="90" name="90" surname="90" immunity="32.00"/>
+		<vertex id="91" name="91" surname="91" immunity="55.00"/>
+		<vertex id="92" name="92" surname="92" immunity="86.00"/>
+		<vertex id="93" name="93" surname="93" immunity="33.00"/>
+		<vertex id="94" name="94" surname="94" immunity="45.00"/>
+		<vertex id="95" name="95" surname="95" immunity="45.00"/>
+		<vertex id="96" name="96" surname="96" immunity="24.00"/>
+		<vertex id="97" name="97" surname="97" immunity="56.00"/>
+		<vertex id="98" name="98" surname="98" immunity="16.00"/>
+		<vertex id="99" name="99" surname="99" immunity="62.00"/>
+	</vertices>
+	<edges>
+		<edge from="0" to="77"/>
+		<edge from="0" to="36"/>
+		<edge from="1" to="69"/>
+		<edge from="2" to="47"/>
+		<edge from="2" to="72"/>
+		<edge from="3" to="1"/>
+		<edge from="3" to="39"/>
+		<edge from="3" to="75"/>
+		<edge from="4" to="99"/>
+		<edge from="4" to="67"/>
+		<edge from="5" to="28"/>
+		<edge from="6" to="56"/>
+		<edge from="6" to="44"/>
+		<edge from="6" to="25"/>
+		<edge from="7" to="70"/>
+		<edge from="7" to="22"/>
+		<edge from="7" to="27"/>
+		<edge from="8" to="69"/>
+		<edge from="8" to="25"/>
+		<edge from="8" to="22"/>
+		<edge from="9" to="32"/>
+		<edge from="10" to="28"/>
+		<edge from="11" to="1"/>
+		<edge from="12" to="46"/>
+		<edge from="12" to="3"/>
+		<edge from="13" to="84"/>
+		<edge from="13" to="91"/>
+		<edge from="14" to="35"/>
+		<edge from="14" to="40"/>
+		<edge from="14" to="56"/>
+		<edge from="15" to="24"/>
+		<edge from="16" to="44"/>
+		<edge from="17" to="61"/>
+		<edge from="18" to="96"/>
+		<edge from="18" to="81"/>
+		<edge from="19" to="0"/>
+		<edge from="19" to="44"/>
+		<edge from="20" to="42"/>
+		<edge from="20" to="46"/>
+		<edge from="21" to="67"/>
+		<edge from="21" to="50"/>
+		<edge from="22" to="85"/>
+		<edge from="22" to="65"/>
+		<edge from="23" to="66"/>
+		<edge from="24" to="23"/>
+		<edge from="25" to="68"/>
+		<edge from="25" to="77"/>
+		<edge from="25" to="0"/>
+		<edge from="26" to="71"/>
+		<edge from="26" to="74"/>
+		<edge from="26" to="46"/>
+		<edge from="27" to="92"/>
+		<edge from="27" to="99"/>
+		<edge from="28" to="21"/>
+		<edge from="28" to="91"/>
+		<edge from="28" to="6"/>
+		<edge from="29" to="58"/>
+		<edge from="29" to="15"/>
+		<edge from="30" to="31"/>
+		<edge from="30" to="35"/>
+		<edge from="30" to="46"/>
+		<edge from="31" to="53"/>
+		<edge from="31" to="33"/>
+		<edge from="31" to="98"/>
+		<edge from="32" to="27"/>
+		<edge from="32" to="81"/>
+		<edge from="32" to="2"/>
+		<edge from="33" to="18"/>
+		<edge from="33" to="15"/>
+		<edge from="34" to="75"/>
+		<edge from="34" to="14"/>
+		<edge from="35" to="1"/>
+		<edge from="35" to="85"/>
+		<edge from="35" to="74"/>
+		<edge from="36" to="7"/>
+		<edge from="37" to="45"/>
+		<edge from="37" to="64"/>
+		<edge from="38" to="92"/>
+		<edge from="38" to="23"/>
+		<edge from="39" to="89"/>
+		<edge from="39" to="43"/>
+		<edge from="39" to="72"/>
+		<edge from="40" to="23"/>
+		<edge from="40" to="42"/>
+		<edge from="40" to="27"/>
+		<edge from="41" to="62"/>
+		<edge from="41" to="14"/>
+		<edge from="42" to="53"/>
+		<edge from="42" to="56"/>
+		<edge from="42" to="0"/>
+		<edge from="43" to="72"/>
+		<edge from="43" to="6"/>
+		<edge from="43" to="52"/>
+		<edge from="44" to="88"/>
+		<edge from="44" to="37"/>
+		<edge from="44" to="3"/>
+		<edge from="45" to="93"/>
+		<edge from="45" to="1"/>
+		<edge from="46" to="19"/>
+		<edge from="46" to="64"/>
+		<edge from="46" to="31"/>
+		<edge from="47" to="92"/>
+		<edge from="47" to="43"/>
+		<edge from="48" to="50"/>
+		<edge from="48" to="16"/>
+		<edge from="49" to="71"/>
+		<edge from="49" to="99"/>
+		<edge from="50" to="3"/>
+		<edge from="50" to="95"/>
+		<edge from="51" to="33"/>
+		<edge from="51" to="50"/>
+		<edge from="52" to="80"/>
+		<edge from="52" to="16"/>
+		<edge from="52" to="96"/>
+		<edge from="53" to="34"/>
+		<edge from="54" to="18"/>
+		<edge from="54" to="37"/>
+		<edge from="55" to="13"/>
+		<edge from="56" to="70"/>
+		<edge from="56" to="5"/>
+		<edge from="57" to="0"/>
+		<edge from="57" to="66"/>
+		<edge from="57" to="85"/>
+		<edge from="58" to="86"/>
+		<edge from="59" to="33"/>
+		<edge from="59" to="41"/>
+		<edge from="59" to="46"/>
+		<edge from="60" to="23"/>
+		<edge from="61" to="43"/>
+		<edge from="62" to="99"/>
+		<edge from="63" to="54"/>
+		<edge from="64" to="58"/>
+		<edge from="65" to="91"/>
+		<edge from="65" to="41"/>
+		<edge from="65" to="59"/>
+		<edge from="66" to="28"/>
+		<edge from="66" to="75"/>
+		<edge from="67" to="25"/>
+		<edge from="67" to="86"/>
+		<edge from="68" to="25"/>
+		<edge from="68" to="22"/>
+		<edge from="68" to="46"/>
+		<edge from="69" to="1"/>
+		<edge from="69" to="90"/>
+		<edge from="70" to="80"/>
+		<edge from="70" to="14"/>
+		<edge from="70" to="44"/>
+		<edge from="71" to="52"/>
+		<edge from="71" to="23"/>
+		<edge from="72" to="15"/>
+		<edge from="72" to="88"/>
+		<edge from="72" to="91"/>
+		<edge from="73" to="5"/>
+		<edge from="74" to="37"/>
+		<edge from="75" to="40"/>
+		<edge from="76" to="59"/>
+		<edge from="76" to="48"/>
+		<edge from="76" to="4"/>
+		<edge from="77" to="3"/>
+		<edge from="78" to="29"/>
+		<edge from="78" to="49"/>
+		<edge from="78" to="57"/>
+		<edge from="79" to="59"/>
+		<edge from="79" to="90"/>
+		<edge from="79" to="12"/>
+		<edge from="80" to="50"/>
+		<edge from="80" to="21"/>
+		<edge from="81" to="97"/>
+		<edge from="82" to="59"/>
+		<edge from="83" to="63"/>
+		<edge from="83" to="98"/>
+		<edge from="84" to="16"/>
+		<edge from="84" to="57"/>
+		<edge from="84" to="56"/>
+		<edge from="85" to="2"/>
+		<edge from="85" to="31"/>
+		<edge from="86" to="46"/>
+		<edge from="86" to="62"/>
+		<edge from="87" to="37"/>
+		<edge from="88" to="58"/>
+		<edge from="89" to="26"/>
+		<edge from="89" to="6"/>
+		<edge from="89" to="12"/>
+		<edge from="90" to="62"/>
+		<edge from="90" to="95"/>
+		<edge from="90" to="51"/>
+		<edge from="91" to="54"/>
+		<edge from="92" to="38"/>
+		<edge from="93" to="15"/>
+		<edge from="94" to="37"/>
+		<edge from="94" to="82"/>
+		<edge from="94" to="34"/>
+		<edge from="95" to="48"/>
+		<edge from="95" to="96"/>
+		<edge from="96" to="32"/>
+		<edge from="97" to="58"/>
+		<edge from="97" to="96"/>
+		<edge from="98" to="71"/>
+		<edge from="98" to="20"/>
+		<edge from="99" to="47"/>
+		<edge from="99" to="97"/>
+	</edges>
+</graph>
